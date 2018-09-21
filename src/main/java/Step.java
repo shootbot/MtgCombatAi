@@ -1,0 +1,15 @@
+public enum Step {
+    UNTAP,
+    UPKEEP,
+    DRAW,
+    M1,
+    COMBAT_START,
+    DECLARE_ATTACKERS,
+    DECLARE_BLOCKERS,
+    FIRST_DAMAGE,
+    NORMAL_DAMAGE,
+    COMBAT_FINISH,
+    M2,
+    END,
+    CLEANUP
+}
